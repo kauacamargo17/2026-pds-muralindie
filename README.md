@@ -26,7 +26,7 @@
 | 📄 **Documento do Projeto Final (público)** | https://1drv.ms/w/c/9963859d2e2d6df5/IQAwexr4RurcTYwZE0sHzinyATx5KC7-q0Vl92o85DHprxQ?e=qZswIP |
 | 🖥️ Sistema / deploy (se já houver) | em desenvolvimento |
 | 🎨 Protótipo no Figma | em desenvolvimento |
-| 📋 Quadro de gestão (ClickUp) | {{link do board}} |
+| 📋 Quadro de gestão (ClickUp) | em desenvolvimento |
 ​
 > ⚠️ O link do **documento do Projeto Final** é obrigatório e deve estar **público**. É por ele que o professor acessa a versão de escrita mais recente.
 ​
