@@ -1,48 +1,31 @@
-# Mural Indie
+# E2 – Introdução
 
-## Introdução
+## Mural Indie
 
-O **Mural Indie** é um projeto desenvolvido na disciplina de **Projeto e Desenvolvimento de Sistemas (PDS)**, do curso **Técnico em Informática Integrado ao Ensino Médio**, no **IFPR - Centro de Referência Ponta Grossa**.
+Esta pasta contém a entrega da **Etapa 2** da disciplina de Projeto e Desenvolvimento de Sistemas (PDS), referente à introdução do projeto **Mural Indie**.
 
-A proposta do sistema é criar uma plataforma web para ajudar na **divulgação e descoberta de projetos independentes**. Muitas vezes, criadores locais têm dificuldade para mostrar seus trabalhos e encontrar pessoas interessadas em apoiar, participar ou colaborar. Pensando nisso, o Mural Indie busca reunir essas pessoas em um só lugar.
+### Sobre o projeto
 
-## Problema
+O Mural Indie será uma plataforma web destinada à divulgação e descoberta de projetos independentes da região de Ponta Grossa. O sistema buscará conectar criadores, investidores e pessoas interessadas em inovação por meio de um ambiente centralizado e de fácil acesso.
 
-Atualmente, não existe um meio centralizado e acessível para divulgar projetos independentes de forma simples. Isso acaba dificultando a visibilidade dos criadores e reduzindo oportunidades de crescimento, parceria e reconhecimento.
+### Conteúdo desta entrega
 
-## Solução proposta
+- Introdução
+- Problema
+- Justificativa
 
-O sistema permitirá que usuários publiquem e encontrem projetos independentes por meio de uma plataforma organizada e fácil de usar. A ideia é oferecer recursos como:
+### Objetivo da entrega
 
-- cadastro de usuários;
-- publicação de projetos;
-- busca de conteúdos;
-- categorização por tipo de projeto;
-- interação entre usuários.
+Apresentar o contexto do projeto, descrever o problema que motivará seu desenvolvimento e justificar a importância da solução proposta.
 
-## Público-alvo
+---
 
-O projeto é voltado para pessoas que criam, apoiam ou procuram iniciativas independentes, como:
+**Disciplina:** Projeto e Desenvolvimento de Sistemas (PDS)  
+**Instituição:** IFPR – Centro de Referência Ponta Grossa  
+**Ano:** 2026
 
-- artistas;
-- desenvolvedores;
-- estudantes;
-- empreendedores;
-- colaboradores;
-- investidores;
-- comunidade em geral.
+### Equipe
 
-## Tecnologias utilizadas
-
-As tecnologias previstas para o desenvolvimento do sistema são:
-
-- **Python**
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **MySQL**
-
-## Objetivo
-
-O principal objetivo do **Mural Indie** é facilitar a conexão entre criadores e interessados, ajudando na divulgação de projetos e incentivando a colaboração entre pessoas da comunidade.
-
+- Allan Raphael de Lima Almeida
+- Gabriel Dominguez Correia
+- Kauã Ruan Filho de Camargo
