@@ -54,7 +54,7 @@
 │   ├── E3-fundamentacao-teorica/
 │   ├── E4-metodologia/
 │   └── E5-desenvolvimento/
-├── diagramas/  ← .drawio + exportações PNG/SVG
+├── diagramas/  ← .miro + exportações PNG/SVG
 ├── prototipos/  ← exportações/links do Figma
 └── src/  ← código-fonte do sistema
 ```
@@ -68,8 +68,8 @@
 | # | Entrega | Peso | Status | Onde está |
 |---|---|---|---|---|
 | E1 | Pré-Projeto corrigido (banca) | 10% | ✅ | `docs/E1-pre-projeto-corrigido/` |
-| 📄 | Aprovação do Pré-Projeto + Termos de Concordância | 10% | ⬜ a fazer | `docs/aprovacao-e-termos-de-concordancia/` |
-| E2 | Capa, Folha de Rosto e Introdução | 10% | ⬜ a fazer | `docs/E2-introducao/` |
+| 📄 | Aprovação do Pré-Projeto + Termos de Concordância | 10% | ✅ a fazer | `docs/aprovacao-e-termos-de-concordancia/` |
+| E2 | Capa, Folha de Rosto e Introdução | 10% | ✅ a fazer | `docs/E2-introducao/` |
 | E3 | Fundamentação Teórica | 10% | ⬜ a fazer | `docs/E3-fundamentacao-teorica/` |
 | E4 | Metodologia / Materiais e Métodos | 10% | ⬜ a fazer | `docs/E4-metodologia/` |
 | E5 | Desenvolvimento do Sistema | 30% | ⬜ a fazer | `docs/E5-desenvolvimento/` + `src/` |
