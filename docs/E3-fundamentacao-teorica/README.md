@@ -1,4 +1,4 @@
-# E2 – Fundamentação Teórica
+# E3 – Fundamentação Teórica
 
 ## Mural Indie
 
