@@ -1,4 +1,4 @@
-# E3 – Metodologia / Materiais e Métodos
+# E4 – Metodologia / Materiais e Métodos
 
 ## Mural Indie
 
