@@ -24,7 +24,6 @@ Esta etapa da documentação contém:
 ### Ferramentas e tecnologias
 
 - **WordPress:** criação e gerenciamento do site.
-- **Firebase:** armazenamento dos dados.
 - **GitHub:** controle de versão e colaboração entre os integrantes.
 - **Miro:** organização visual das ideias e planejamento do projeto.
 - **Scrum:** metodologia utilizada para organizar o desenvolvimento em etapas.
