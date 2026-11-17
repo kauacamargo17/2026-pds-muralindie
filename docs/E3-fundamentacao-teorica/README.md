@@ -24,7 +24,7 @@ Esta etapa da documentação contém:
 - HTML
 - CSS
 - JavaScript
-- FireBase
+
 
 ### Referências teóricas abordadas
 
