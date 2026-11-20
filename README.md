@@ -13,7 +13,7 @@
 ​
 | Nome | GitHub (@usuário) | Função no projeto |
 |---|---|---|
-| Allan Raphael de Lima Almeida | @allan983 | Front-end / banco de dados |
+| Allan Raphael de Lima Almeida | @allan983 | Front-end / BackEnd / Documentação |
 | Gabriel Dominguez Correia | @gabrieldominguescorreiaifpr-lang | BackEnd / UI |
 | Kauã Ruan Filho de Camargo | @kauacamargo17 | Documentação e testes |
 ​
