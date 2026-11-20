@@ -72,7 +72,7 @@
 | E2 | Capa, Folha de Rosto e Introdução | 10% | ✅ a fazer | `docs/E2-introducao/` |
 | E3 | Fundamentação Teórica | 10% | ✅ a fazer | `docs/E3-fundamentacao-teorica/` |
 | E4 | Metodologia / Materiais e Métodos | 10% | ✅ a fazer | `docs/E4-metodologia/` |
-| E5 | Desenvolvimento do Sistema | 30% | ⬜ a fazer | `docs/E5-desenvolvimento/` + `src/` |
+| E5 | Desenvolvimento do Sistema | 30% | ✅ a fazer | `docs/E5-desenvolvimento/` + `src/` |
 ​
 > Marque ✅ quando concluir cada entrega. **E6 (Conceito do Orientador, 20%)** é avaliação contínua — não vai para o repositório.
 ​
