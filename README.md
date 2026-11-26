@@ -34,7 +34,7 @@
 **Solução proposta:** O Mural Indie é uma plataforma web que permite a divulgação de projetos independentes, conectando criadores e interessados por meio de postagens, pesquisas, categorização de conteúdos e interação entre usuários.
 **Público-alvo:** Criadores de projetos independentes, artistas, desenvolvedores, empreendedores, estudantes, investidores, colaboradores e pessoas interessadas em conhecer ou participar de iniciativas locais.
 ​
-**Tecnologias (stack):** Python, HTML, CSS, JavaScript e MySQL 
+**Tecnologias (stack):** Wordpress
 ​
 ---
 ​
