@@ -20,10 +20,7 @@ Esta etapa da documentação contém:
 
 ### Tecnologias previstas
 
-- Python
-- HTML
-- CSS
-- JavaScript
+- Wordpress
 
 
 ### Referências teóricas abordadas
