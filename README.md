@@ -74,7 +74,7 @@
 ​
 ---
 ​
-## ▶️ Como rodar o sistema (preencher quando houver código)
+## ▶️ Como rodar o sistema 
 ​
 ```bash
 https://muralindie.com
