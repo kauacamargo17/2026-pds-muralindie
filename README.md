@@ -77,5 +77,5 @@
 ## ▶️ Como rodar o sistema (preencher quando houver código)
 ​
 ```bash
-{{passos para instalar dependências e executar o projeto localmente}}
+https://muralindie.com
 ```
